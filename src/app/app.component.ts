@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  title = 'alurapic';
+  description="Anime"
+  url ='https://www.comboinfinito.com.br/principal/wp-content/uploads/2019/11/Fire-Force.jpg'
 }
